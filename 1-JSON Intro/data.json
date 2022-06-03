@@ -1,0 +1,30 @@
+{
+  "firstName": "Hossam",
+  "lastName": "Badr",
+  "Age": 38,
+  "Skills": [
+    ["HTML", "Pugjs", "Haml"],
+    ["CSS", "SASS", "LESS"],
+    ["JS", "node.js"]
+  ],
+  "skillsProgress": [
+    {
+      "HTML": "70%",
+      "Pugjs": "60%"
+    },
+    {
+      "CSS": "60%",
+      "SASS": "50%"
+    },
+    {
+      "js": "60%",
+      "node.js": "60%"
+    }
+  ],
+  "Addresses": {
+    "Egypt": "Sharhkia",
+    "Russia": "Moscow"
+  },
+  "WorkStatus": true,
+  "Income": null
+}
